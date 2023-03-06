@@ -11,7 +11,7 @@
 
 ## 배포링크
 
-👉<a href=https://kyojin-hwang.github.io/404error-clone-front//>👈
+👉<a href='https://kyojin-hwang.github.io/404error-clone-front'>404-에러페이지</a>👈
 
 ## 사용언어
 
