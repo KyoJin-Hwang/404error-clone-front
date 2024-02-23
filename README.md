@@ -25,6 +25,14 @@
 - 없음
 
 ## 배운점
-
-- Javascript 복습을 하는 시간을 갖게되어서 너무 좋았다.
+|**Vector**|<span style="background-color: #fff5b1">Raster</sapn>|
+|테스트1|픽셀로 구성|
+|테스트1|테스트2|
+|테스트1|테스트2|
+- **SVG (Scalable Vector Graphics)** : 스케일러블 벡터 그래픽스
+  - 크기를 조정해도 품질이 저하되지 않는다.
+  - XML 기반의 파일로 메모장과 같이 문서 편집기로 편집 가능하다.
+    
+- **Javascript**
+  - 
 - css : @keyframe 애니메이션 사용법을 알게 되었다.
