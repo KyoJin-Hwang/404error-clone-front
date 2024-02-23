@@ -36,5 +36,5 @@
   - XML 기반의 파일로 메모장과 같이 문서 편집기로 편집 가능하다.
     
 - **Javascript**
-  - 
+  - addEventListener : 인터페이스의 메소드는 지정된 EventTarget이벤트가 대상에 전달될 때마다 호출되는 함수를 설정한다.
 - css : @keyframe 애니메이션 사용법을 알게 되었다.
