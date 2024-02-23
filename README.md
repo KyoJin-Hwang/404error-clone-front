@@ -1,8 +1,9 @@
 # 404 Error 페이지
 
-패스트캠퍼스 프론트엔드 강의 클론코딩
+## 패스트캠퍼스 프론트엔드 강의 클론코딩
 
-404 에러 페이지 
+## 404 에러 페이지 
+
 ![image](https://github.com/KyoJin-Hwang/404error-clone-front/assets/84490050/17375b9b-afef-43f1-a20e-c32d6312fe18)
 
 ## 기간
