@@ -25,7 +25,7 @@
 - 없음
 
 ## 배운점
-|**Vector**|<span style="background-color: #fff5b1">Raster</sapn>|
+|**Vector**|Raster|
 |테스트1|픽셀로 구성|
 |테스트1|테스트2|
 |테스트1|테스트2|
